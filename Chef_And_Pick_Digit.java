@@ -1,9 +1,7 @@
-package Sept_Challenge;
-
 import java.util.Scanner;
-
-public class Chef_And_Pick_Digit {
-
+ 
+class Chef_And_Pick_Digit {
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
@@ -44,5 +42,5 @@ public class Chef_And_Pick_Digit {
 			System.out.println();
 		}
 	}
-
+ 
 }
