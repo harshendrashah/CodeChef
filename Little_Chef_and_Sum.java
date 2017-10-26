@@ -1,8 +1,6 @@
-package Sept_Challenge;
-
 import java.util.Scanner;
-
-public class Little_Chef_and_Sum {
+ 
+class Little_Chef_and_Sum {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,8 +16,10 @@ public class Little_Chef_and_Sum {
 					min=j;
 				}	
 			}
+			
 			System.out.println(min+1);
 		}
 	}
-
+ 
 }
+ 
